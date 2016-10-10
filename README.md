@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/meltwater/supervisor_health.svg?branch=master)](https://travis-ci.org/meltwater/supervisor_health)
+
 # SupervisorHealth
 
 This is the Supervisor Health module for [Elixir][elixir-official] applications. This can be used to provide a health endpoint in a web-based application or API.
