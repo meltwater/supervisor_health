@@ -10,7 +10,7 @@ This is the Supervisor Health module for [Elixir][elixir-official] applications.
 - [Usage](#usage)
 - [Responses](#responses)
   - [Example](#example)
-- [Team](#team)
+- [Contact](#contact)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -23,7 +23,7 @@ The package can be installed as following:
 
     ```elixir
     def deps do
-      [{:supervisor_health, git: "https://github.com/otype/supervisor_health", tag: "0.1.0"}]
+      [{:supervisor_health, git: "https://github.com/meltwater/supervisor_health", tag: "0.1.0"}]
     end
     ```
 
