@@ -1,6 +1,7 @@
 language: elixir
 elixir:
   - 1.3.2
+sudo: required
 
 script:
   - mix test
