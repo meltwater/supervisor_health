@@ -7,8 +7,10 @@ engines:
     channel: beta
 ratings:
   paths:
+    - "lib/**/*"
     - "**.ex"
     - "**.exs"
 exclude_paths:
 - config/
 - test/
+- deps/
