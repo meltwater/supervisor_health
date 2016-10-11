@@ -90,10 +90,8 @@ Using curl on the [Plug][elixir-plug]-based API mentioned above, a possible resp
 
 ## Contact
 
-For questions, do not hesitate to contact:
-
-- Hans-Gunther Schmidt ([hans.schmidt@meltwater.com](mailto:hans.schmidt@meltwater.com))
-- Joel Carlbark ([joel.carlbark@meltwater.com](mailto:joel.carlbark@meltwater.com))
+For questions, bug reports and feature requests do not hesitate
+to create an [issue on github](https://github.com/meltwater/supervisor_health/issues).
 
 ## License
 
