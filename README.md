@@ -25,7 +25,7 @@ The package can be installed as following:
 
     ```elixir
     def deps do
-      [{:supervisor_health, git: "https://github.com/meltwater/supervisor_health", tag: "0.1.0"}]
+      [{:supervisor_health, git: "https://github.com/meltwater/supervisor_health", tag: "0.1.1"}]
     end
     ```
 
