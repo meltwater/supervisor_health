@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/meltwater/supervisor_health.svg?branch=master)](https://travis-ci.org/meltwater/supervisor_health) [![Code Climate](https://codeclimate.com/github/meltwater/supervisor_health/badges/gpa.svg)](https://codeclimate.com/github/meltwater/supervisor_health) [![Issue Count](https://codeclimate.com/github/meltwater/supervisor_health/badges/issue_count.svg)](https://codeclimate.com/github/meltwater/supervisor_health)
+[![Build Status](https://travis-ci.org/meltwater/supervisor_health.svg?branch=master)](https://travis-ci.org/meltwater/supervisor_health)
 
 # SupervisorHealth
 
